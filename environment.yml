@@ -1,4 +1,4 @@
-name: SICCSS
+name: SICSS
 dependencies:
   - jupyter=1.0.0
   - jupyterlab=3.4.3
